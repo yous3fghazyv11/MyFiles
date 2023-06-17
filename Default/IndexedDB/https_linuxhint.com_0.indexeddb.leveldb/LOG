@@ -1,0 +1,6 @@
+2023/06/12-16:22:02.872 56ff Creating DB /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/06/12-16:22:02.896 56ff Reusing MANIFEST /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/12-16:22:06.924 5700 Level-0 table #5: started
+2023/06/12-16:22:06.932 5700 Level-0 table #5: 5376 bytes OK
+2023/06/12-16:22:06.944 5700 Delete type=0 #3
+2023/06/12-16:22:06.944 5700 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

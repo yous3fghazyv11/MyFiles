@@ -1,0 +1,47 @@
+import:
+  - ~/.config/alacritty/dracula.yml
+  
+window:
+  padding:
+    x: 5
+    y: 5
+
+  decorations: none
+
+  opacity: 0.93
+  dynamic_title: true
+
+  history: 10000
+  multiplier: 3
+
+selection:
+  save_to_clipboard: false
+
+font:
+  normal:
+    family: Fira Code
+    style: Regular
+
+  bold:
+    family: Fira Code
+    style: Bold
+
+  italic:
+    family: Fira Code
+    style: Italic
+
+  bold_italic:
+    family: Fira Code
+    style: Bold Italic
+
+  size: 8
+
+cursor:
+  style:
+    shape: Block
+    blinking: On
+    
+  unfocused_hollow: false 
+  blink_interval: 550
+
+live_config_reload: true

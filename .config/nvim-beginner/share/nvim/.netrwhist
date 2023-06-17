@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/yusif/.config/neovim-for-beginner/after/plugin'
+let g:netrw_dirhist_1='/home/yusif/.config/neovim-for-beginner/after'
+let g:netrw_dirhist_0='/home/yusif/.config/neovim-for-beginner/after/ftplugin'
+let g:netrw_dirhist_9='/home/yusif/.config/neovim-for-beginner/after'
+let g:netrw_dirhist_8='/home/yusif/.config/neovim-for-beginner'
+let g:netrw_dirhist_7='/home/yusif/.config/neovim-for-beginner/lua'
+let g:netrw_dirhist_6='/home/yusif/.config/neovim-for-beginner/lua/config'
+let g:netrw_dirhist_5='/home/yusif/.config/neovim-for-beginner/lua'
+let g:netrw_dirhist_4='/home/yusif/.config/neovim-for-beginner/lua/config'
+let g:netrw_dirhist_3='/home/yusif/.config/neovim-for-beginner/lua'

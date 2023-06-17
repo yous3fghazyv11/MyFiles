@@ -1,0 +1,7 @@
+2023/06/16-14:15:05.152 a31 Reusing MANIFEST /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-14:15:05.152 a31 Recovering log #3
+2023/06/16-14:15:05.152 a31 Reusing old log /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000003.log 
+2023/06/16-14:15:35.481 a32 Level-0 table #5: started
+2023/06/16-14:15:35.487 a32 Level-0 table #5: 3099 bytes OK
+2023/06/16-14:15:35.495 a32 Delete type=0 #3
+2023/06/16-14:15:35.496 a32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

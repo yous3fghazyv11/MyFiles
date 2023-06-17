@@ -1,0 +1,6 @@
+2023/06/14-20:17:35.174 4a9 Creating DB /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.alarabiya.net_0.indexeddb.leveldb since it was missing.
+2023/06/14-20:17:35.199 4a9 Reusing MANIFEST /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.alarabiya.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-20:18:36.385 4aa Level-0 table #5: started
+2023/06/14-20:18:36.392 4aa Level-0 table #5: 6153 bytes OK
+2023/06/14-20:18:36.400 4aa Delete type=0 #3
+2023/06/14-20:18:36.401 4aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

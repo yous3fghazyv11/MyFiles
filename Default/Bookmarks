@@ -1,0 +1,203 @@
+{
+   "checksum": "8081b2b4b84b9d8dfd84b0734dd213d6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331084234451046",
+            "date_last_used": "0",
+            "guid": "e6b264d5-128f-44ee-8156-688ea0fc8f1b",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(213) Fundamentals of Information Technology ( Chapter 1 : Basics Of IT ) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-ln6lDCk22c&list=PLgKWvRMsdLZ4KK_B1lk02WlYVEld9ZT9q&index=1&t=7s"
+         }, {
+            "date_added": "13331119710153657",
+            "date_last_used": "0",
+            "guid": "533a89a4-db45-49de-98eb-4cc512ece2f6",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fuzzy File Search in Linux Command Line",
+            "type": "url",
+            "url": "https://itsfoss.com/fuzzy-file-search-linux/"
+         }, {
+            "date_added": "13331120416999762",
+            "date_last_used": "0",
+            "guid": "29775864-432a-4f74-ad08-2b6dc661347a",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/?"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "f20452ce-7f8f-493e-9574-9d7cc6f2fc73",
+                  "id": "12",
+                  "name": "Getting Started",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+               } ],
+               "date_added": "13331499817107983",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "538f352c-b543-4e86-b7cc-064a6db43c08",
+               "id": "11",
+               "name": "toolbar",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "ca16fb34-5408-4dee-a1f3-cbf0909d69ce",
+                  "id": "14",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "fab7c958-8a96-4c8d-9760-f2c57fa7808a",
+                  "id": "15",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "c495b1d0-8abf-4d72-9197-fc4afe08dad3",
+                  "id": "16",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "c4489457-9acc-49db-b64d-9254ec7bdd3f",
+                  "id": "17",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13331499817108114",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "021bec84-b1fa-47e6-a0fe-59affaa051dc",
+               "id": "13",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13331499817107262",
+            "date_last_used": "0",
+            "date_modified": "13331499817107262",
+            "guid": "4b08e44e-8c94-413a-bf4e-4d0788576ee6",
+            "id": "10",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "774934e5-a5cf-4bd0-a2e7-6a8a6e46f494",
+                  "id": "20",
+                  "name": "Getting Started",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+               } ],
+               "date_added": "13331499947687201",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4835fe78-d72c-4098-bdaa-f0b2db75b40a",
+               "id": "19",
+               "name": "toolbar",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "962d6d3f-69f7-4f4f-9277-855c931c65e2",
+                  "id": "22",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "e0219647-f87e-4fee-bd08-00c544684995",
+                  "id": "23",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "4b79920d-d4df-4ad4-8c42-53e690b48709",
+                  "id": "24",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13331046711000000",
+                  "date_last_used": "0",
+                  "guid": "04f9f434-bf86-4e60-aea7-87305f54ba43",
+                  "id": "25",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13331499947687448",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "eb9f9f9b-8173-4b69-973c-05a0d08d4945",
+               "id": "21",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13331499947685862",
+            "date_last_used": "0",
+            "date_modified": "13331499947685862",
+            "guid": "8901b11d-4610-445d-bf16-532f374ddeba",
+            "id": "18",
+            "name": "Imported From Firefox (1)",
+            "type": "folder"
+         } ],
+         "date_added": "13331079831191615",
+         "date_last_used": "0",
+         "date_modified": "13331120416999762",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331079831191617",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331079831191618",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

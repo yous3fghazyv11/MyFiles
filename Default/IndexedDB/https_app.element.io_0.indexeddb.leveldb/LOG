@@ -1,0 +1,15 @@
+2023/06/14-19:22:16.201 4a9 Reusing MANIFEST /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.element.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-19:22:16.201 4a9 Recovering log #6
+2023/06/14-19:22:16.204 4a9 Reusing old log /home/yusif/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.element.io_0.indexeddb.leveldb/000006.log 
+2023/06/14-19:22:19.362 4a9 Level-0 table #11: started
+2023/06/14-19:22:19.370 4a9 Level-0 table #11: 302585 bytes OK
+2023/06/14-19:22:19.378 4a9 Delete type=0 #6
+2023/06/14-19:22:19.378 4a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/14-19:22:19.378 4a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x05\x02\x01\x01\x00-' @ 882 : 1
+2023/06/14-19:22:19.378 4a9 Compacting 1@1 + 1@2 files
+2023/06/14-19:22:19.385 4a9 Generated table #12@1: 475 keys, 49065 bytes
+2023/06/14-19:22:19.385 4a9 Compacted 1@1 + 1@2 files => 49065 bytes
+2023/06/14-19:22:19.393 4a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/14-19:22:19.394 4a9 Delete type=2 #8
+2023/06/14-19:22:19.394 4a9 Delete type=2 #11
+2023/06/14-19:22:19.394 4a9 Manual compaction at level-1 from '\x00\x06\x05\x02\x01\x01\x00-' @ 882 : 1 .. (end); will stop at (end)
